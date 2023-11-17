@@ -26,6 +26,6 @@ It's purpose is to build X (Twitter) using the Qwik framework.
 - The website should have a lighthouse accessibility score of 90 or more.
 - The website should have a lighthouse SEO score of 90 or more.
 - The website should have a lighthouse Best Practices score of 90 or moe.
-- The website should have all of the pages that can be navigated to using any of the navbar page actions (User settings page).
+- The website should have all of the pages that can be navigated to using any of the navbar page actions (A list page for example).
 - The website could change some of the visuals to follow the entire WCAG 2.2 guideline.
 - The website could have the more advanced functionality that is part of X (User settings, bookmarks, etc.).
