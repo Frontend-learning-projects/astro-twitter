@@ -19,7 +19,7 @@ It's purpose is to build X (Twitter) using the Qwik framework.
 - The website must use the same font and sizes as used on the X website.
 - The website must get as close as possible to the visuals of the X website.
 - The website must have all pages that can be navigated through using the X navbar.
-- The content must be dynamic using a JSON input so that it could be replaced with a REST API response in the future (This includes image(s)/image(s) location).
+- The content must be dynamic using a JSON input so that it could be replaced with a REST API response in the future (This includes images/image location).
 - The website must have a lighthouse performance score of 90 or more.
 - The website must follow the WCAG 2.2 guideline without changing any of the visuals of the page.
 - The website should have the standard functionality that is part of X (Sending tweets, deleting tweets, etc.).
