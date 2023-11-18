@@ -1,12 +1,12 @@
-# Qwik Twitter
+# Astro Twitter
 
-This repository contains code of a learning project called: "Qwik Twitter".
+This repository contains code of a learning project called: "Astro Twitter".
 
-It's purpose is to build X (Twitter) using the Qwik framework.
+It's purpose is to build X (Twitter) using the Astro framework.
 
 ## Learning
 
-- Qwik
+- Astro
 - Accessibility
 - Performance
 - Semantic HTML
