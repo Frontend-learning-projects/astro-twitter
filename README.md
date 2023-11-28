@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Astro Twitter
 
 This repository contains code of a learning project called: "Astro Twitter".
